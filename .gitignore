@@ -1,0 +1,17 @@
+# Dart/Flutter
+.dart_tool/
+build/
+.packages
+# Python
+__pycache__/
+.venv/
+venv/
+*.pyc
+# Secrets
+.env
+*.pem
+*.key
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
